@@ -46,9 +46,9 @@ To run any project within this repository, follow these steps:
 
 ## Usage
 1. Load the dataset into the data/ folder of the corresponding project.
-2. Open and run the Jupyter notebooks in the notebooks/ folder:
+2. Open and run the Jupyter notebook:
    ```bash
-   jupyter notebook notebooks/<notebook_name>.ipynb
+   jupyter notebook "CustomerSegmentation&ChurnPrediction.ipynb"
 
 ## Data Sources
 
