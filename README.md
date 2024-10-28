@@ -57,7 +57,7 @@ The datasets used in this repository vary by industry.Each project's README.md p
 ## Projects Included
 
 1. ### Online Retail: 
-Customer Segmentation & Churn Prediction based on the Online Retail II dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii).
+    Customer Segmentation & Churn Prediction based on the Online Retail II dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii).
 
 ## Purpose
 
