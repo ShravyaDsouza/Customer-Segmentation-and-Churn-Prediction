@@ -6,13 +6,13 @@ This project focuses on **Customer Segmentation** and **Churn Prediction** using
 In this project, we applied machine learning algorithms such as **K-Means** for customer segmentation and **K-Nearest Neighbors (KNN)** for churn prediction. The project involves data preprocessing, exploratory data analysis (EDA), and feature engineering.
 
 ## Project Structure
-'''
+```
 Online_Retail/
 |                  
 │   ├── data/                        # Dataset for Online Retail
 │   ├── notebook                     # Jupyter notebook for this project
 │   └── README.md                    # Detailed README for Online Retail project
-'''
+```
 
 ## Dataset
 The **Online Retail II** dataset contains all the transactions occurring for a UK-based non-store online retailer between **2009 and 2011**. The company primarily sells unique giftware. The dataset includes the following attributes:
