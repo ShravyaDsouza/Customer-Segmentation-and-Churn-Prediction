@@ -6,7 +6,7 @@ This repository contains a series of projects focused on **Customer Segmentation
 Each subfolder in this repository is dedicated to a specific industry or dataset, showcasing how segmentation and churn prediction techniques can be applied across different domains. The projects include data preprocessing, exploratory data analysis, feature engineering, and the application of machine learning models such as K-Means for segmentation and classification algorithms for churn prediction.
 
 ## Project Structure
-
+```
 CustomerSegmentationAndChurnPrediction/
 │
 ├── Online_Retail/                   # Customer Segmentation & Churn Prediction for Online Retail dataset
@@ -22,6 +22,7 @@ CustomerSegmentationAndChurnPrediction/
 │   └── README.md                    # Detailed README for Telecommunications project
 │                  
 └── README.md                        # Main README file (this file)
+```
 
 ## Installation
 
