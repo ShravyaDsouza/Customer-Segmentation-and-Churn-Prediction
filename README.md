@@ -11,14 +11,12 @@ CustomerSegmentationAndChurnPrediction/
 │
 ├── Online_Retail/                   # Customer Segmentation & Churn Prediction for Online Retail dataset
 │   ├── data/                        # Dataset for Online Retail
-│   ├── notebooks/                   # Jupyter notebooks for this project
-│   ├── src/                         # Scripts for data processing and modeling
+│   ├── notebook                     # Jupyter notebook for this project
 │   └── README.md                    # Detailed README for Online Retail project
 │
 ├── Telecommunications/              # Customer Segmentation & Churn Prediction for Telecommunications dataset
 │   ├── data/                        # Dataset for Telecommunications (upcoming)
-│   ├── notebooks/                   # Jupyter notebooks for this project (upcoming)
-│   ├── src/                         # Scripts for data processing and modeling (upcoming)
+│   ├── notebook                     # Jupyter notebook for this project (upcoming)
 │   └── README.md                    # Detailed README for Telecommunications project
 │                  
 └── README.md                        # Main README file (this file)
