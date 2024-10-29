@@ -47,12 +47,12 @@ To run this project, follow these steps:
 
 ## Usage
 1. Load the dataset into the data/ folder of the corresponding project.
-   1.1 The dataset contains two sheets:
-   - **1.1.1 2009-2010**: Contains transactions from the 2009-2010 period.
-   - **1.1.2 2010-2011**: Contains transactions from the 2010-2011 period.   
-   1.2 Each sheet is split into train and test datasets respectively.
+- 1.1 The dataset contains two sheets:
+   * **1.1.1 2009-2010**: Contains transactions from the 2009-2010 period.
+   * **1.1.2 2010-2011**: Contains transactions from the 2010-2011 period.   
+- 1.2 Each sheet is split into train and test datasets respectively.
    
-3. Open and run the Jupyter notebook:
+2. Open and run the Jupyter notebook:
    ```bash
    jupyter notebook "CustomerSegmentation&ChurnPrediction.ipynb"
 
